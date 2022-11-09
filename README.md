@@ -1,4 +1,4 @@
-[![Header](https://github.com/Vladlen1997/Vladlen1997/blob/main/assets/Stankevich.jpg)](https://t.me/StaVla888)
+[![Header](https://github.com/Vladlen1997/Vladlen1997/blob/main/assets/reznikxh.jpg)](https://t.me/StaVla888)
 
 
 ## I am a frontend developer
