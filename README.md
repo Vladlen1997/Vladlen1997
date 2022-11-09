@@ -1,13 +1,7 @@
-[![Header](https://github.com/Vladlen1997/Vladlen1997/blob/main/assets/O_9C7HlzbltYIcY7_2P3swYgD1bYKj8KDi9wBz8_ZoaX-PiE40eyO93AJlLX5bNc1AFGNgZa7RLxihH2AUuIXcuK.jpg)](https://t.me/StaVla888)
-
+[![Header](https://github.com/Vladlen1997/Vladlen1997/blob/main/assets/Stankevich.jpg)](https://t.me/StaVla888)
 
 
 ## I am a frontend developer
-
-
-
-Latest projects
-
 
 
 ### Languages and tools
@@ -22,6 +16,7 @@ Latest projects
 ![WebStorm](https://img.shields.io/badge/WebStorm-sucsess?style=for-the-badge&logo=Axios&logoColor=blueviolet)
 ![Git](https://img.shields.io/badge/Git-green?style=for-the-badge&logo=Git&logoColor=red)
 ![Figma](https://img.shields.io/badge/Figma-green?style=for-the-badge&logo=Figma&logoColor=purple)
+![FlexBox](https://img.shields.io/badge/FlexBox-green?style=for-the-badge)
 
 
 ### Follow Me
