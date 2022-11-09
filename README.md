@@ -18,8 +18,6 @@ Latest projects
 ![SCSS](https://img.shields.io/badge/SCSS-success?style=for-the-badge&logo=SASS&logoColor=blueviolet)
 ![React](https://img.shields.io/badge/React-green?style=for-the-badge&logo=React&logoColor=blueviolet)
 ![Redux](https://img.shields.io/badge/Redux-green?style=for-the-badge&logo=Redux&logoColor=blue)
-![NodeJS](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=NodeJS&logoColor=yellow)
-![Axios](https://img.shields.io/badge/Axios-yellow?style=for-the-badge&logo=Axios&logoColor=blue)
 ![English](https://img.shields.io/badge/English-yellow?style=for-the-badge&logo=English&logoColor=blue)
 ![WebStorm](https://img.shields.io/badge/WebStorm-sucsess?style=for-the-badge&logo=Axios&logoColor=blueviolet)
 ![Git](https://img.shields.io/badge/Git-green?style=for-the-badge&logo=Git&logoColor=red)
@@ -30,6 +28,12 @@ Latest projects
 
 
 [![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/StaVla888)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-black?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/stavla888)
+[![Facebook](https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook)](https://www.facebook.com/vladlen.stankevich.18)
+[![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord)](hhttps://discord.com/channels/@Vlados-888)
+
+
+
 
 
 
