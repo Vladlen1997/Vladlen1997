@@ -12,6 +12,7 @@ Latest projects
 
 ### Languages and tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-green?style=for-the-badge&logo=JavaScript&logoColor=blueviolet)
+![TypeScript](https://img.shields.io/badge/TypeScript-orange?style=for-the-badge&logo=TypeScript&logoColor=blueviolet)
 ![HTML](https://img.shields.io/badge/HTML-success?style=for-the-badge&logo=HTML&logoColor=informational)
 ![CSS](https://img.shields.io/badge/CSS-success?style=for-the-badge&logo=Css&logoColor=informational)
 ![SCSS](https://img.shields.io/badge/SCSS-success?style=for-the-badge&logo=SASS&logoColor=blueviolet)
