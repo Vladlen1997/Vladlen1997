@@ -1,4 +1,8 @@
-[![Header](https://github.com/Vladlen1997/Vladlen1997/blob/main/assets/reznikxh.jpg)](https://t.me/StaVla888)
+
+<img src='reznikxh.jpg' alt='photo' width='400px'/>
+
+[![Header](https://github.com/Vladlen1997/Vladlen1997/blob/main/assets/Stan.jpg)](https://t.me/StaVla888)
+
 
 
 ## I am a frontend developer
