@@ -26,4 +26,10 @@ Latest projects
 ![Figma](https://img.shields.io/badge/Figma-green?style=for-the-badge&logo=Figma&logoColor=purple)
 
 
-Follow Me
+### Follow Me
+
+
+[![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/StaVla888)
+
+
+
